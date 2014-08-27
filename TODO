@@ -1,0 +1,12 @@
+- Making the code more readable by inserting spaces
+  and empty lines into the appropriate places
+  
+- Fixing bugs if found
+
+- Adding more tests
+
+- Writing documentation, tutorial and examples
+
+- Fixing typos in source code comments and documentation 
+
+- Performance optimization if possible and worth it

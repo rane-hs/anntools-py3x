@@ -1,0 +1,29 @@
+Installation instructions for anntools
+
+Requirements:
+
+1. Python 2.4 or newer, Python 3.0 supported
+
+Go to http://www.python.org for instructions.
+
+Installation:
+
+For your default python:
+
+python setup.py install
+
+For Python 3.0:
+
+python3.0 setup.py install
+
+Testing:
+
+Run test scripts from the tests subdirectory.
+
+More information:
+
+http://python.cx.hu
+
+Contact:
+
+Viktor Ferenczi <python@cx.hu>

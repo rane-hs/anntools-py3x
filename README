@@ -1,0 +1,9 @@
+The anntools package provides various modules to take advantage of
+Python 3.0's new function annotation feature. This package is useful
+for Python 2.4 and up, since all functionality is also provided
+as keyword arguments for decorators.
+
+Read the INSTALL file or see the home page for more information,
+documentation, tests and examples:
+
+http://python.cx.hu
