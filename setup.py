@@ -6,7 +6,7 @@ from distutils.core import setup
 
 def loadVersion():
     version_regexp = re.compile(r'__version__\s*=\s*(\(.*?\))', re.M)
-    version_file = open('anntools/version.py', 'rb').read()
+    version_file = open('anntools/version.py', 'rb').read().decode('utf-8')
     version_match = version_regexp.search(version_file)
     return eval(version_match.group(1))
     
